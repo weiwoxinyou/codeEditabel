@@ -6,6 +6,7 @@
 // @author       xinyou
 // @include       https://*csdn*/*
 // @grant        none
+// @updateURL https://github.com/weiwoxinyou/codeEditabel/blob/master/codeEditable.js
 // ==/UserScript==
 
 (function() {
